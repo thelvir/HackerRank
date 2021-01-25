@@ -36,6 +36,7 @@ int main() {
 }
 
 /*
+                   --- 2nd way ---
 #include <iostream>
 using namespace std;
 
